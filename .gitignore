@@ -1,2 +1,4 @@
 env
 backend/backend/__pycache__
+backend/api/__pycache__
+backend/api/migrations/__pycache__
